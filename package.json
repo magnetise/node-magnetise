@@ -1,0 +1,24 @@
+{
+  "name": "sms-message-sender-js",
+  "version": "0.0.1",
+  "description": "JavaScript API for the SMS Message Sender API",
+  "main": "./lib/index",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattonfoot/sms-message-sender-js"
+  },
+  "keywords": [
+    "sms",
+    "message",
+    "sender",
+    "api"
+  ],
+  "author": "Matt Smith <mattonfoot@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattonfoot/sms-message-sender-js/issues"
+  }
+}

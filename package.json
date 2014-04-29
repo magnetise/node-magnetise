@@ -1,24 +1,23 @@
 {
-  "name": "sms-message-sender-js",
+  "name": "node-magnetise",
   "version": "0.0.1",
-  "description": "JavaScript API for the SMS Message Sender API",
+  "description": "NodeJS SMS message sender client for the http://magneti.se API",
   "main": "./lib/index",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattonfoot/sms-message-sender-js"
+    "url": "https://github.com/mattonfoot/node-magnetise"
   },
   "keywords": [
     "sms",
-    "message",
-    "sender",
+    "magnetise",
     "api"
   ],
   "author": "Matt Smith <mattonfoot@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattonfoot/sms-message-sender-js/issues"
+    "url": "https://github.com/mattonfoot/node-magnetise/issues"
   }
 }

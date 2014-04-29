@@ -22,7 +22,7 @@ The properties are:
 ```node
 var Magnetise = require('node-magnetise');
 
-var apikey = 'bWF0dG9uZm9vdDoxOGE1ZDQ3OC03NmIxLTRmZWItYjI0NS03YTM5MzM5NWMxN2I=';
+var apikey = 'a75011ac-f290-4bb0-8c20-f1939b5a370f';
 
 var magnetise = new Magnetise( apikey );
 

@@ -4,9 +4,9 @@ Magnetise client for NodeJS
 Getting Started
 ---------------
 
-The very simplest way to send an SMS Message with magneti.se is by `POST`ing to
-`http://magneti.se/api` with properties encoded in the query string or in the body
-of the request.
+The very simplest way to send an SMS Message with magneti.se is by sending a
+`POST` request to `http://magneti.se/api` with properties encoded in the query
+string or in the body of the request.
 
 POST Properties
 ---------------

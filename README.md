@@ -1,6 +1,12 @@
 Magnetise client for NodeJS
 ===========================
 
+[![Build Status for mattonfoot/node-magnetise](https://travis-ci.org/mattonfoot/node-magnetise.svg?branch=master)](https://travis-ci.org/mattonfoot/node-magnetise)
+[![Codeship Status for mattonfoot/node-magnetise](https://www.codeship.io/projects/ffe9c1c0-fe38-0131-eee1-0e81edcedc5d/status?branch=master)](https://www.codeship.io/projects/29543)
+[![Dependency Status for mattonfoot/node-magnetise](https://david-dm.org/mattonfoot/node-magnetise.svg)](https://david-dm.org/mattonfoot/node-magnetise)
+[![Coverage Status for mattonfoot/node-magnetise](https://img.shields.io/coveralls/mattonfoot/node-magnetise.svg)](https://coveralls.io/r/mattonfoot/node-magnetise?branch=master)
+
+
 Getting Started
 ---------------
 

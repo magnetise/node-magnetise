@@ -7,8 +7,11 @@ lib-cov
 *.pid
 *.gz
 
+node_modules
 pids
 logs
 results
+reports
+coverage
 
 npm-debug.log

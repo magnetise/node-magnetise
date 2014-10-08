@@ -1,6 +1,6 @@
 {
   "name": "node-magnetise",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "NodeJS Client for the http://magneti.se SMS message API",
   "main": "./lib/index.js",
   "scripts": {

@@ -1,7 +1,7 @@
 {
   "name": "node-magnetise",
   "version": "0.0.6",
-  "description": "NodeJS SMS message sender client for the http://magneti.se API",
+  "description": "NodeJS Client for the http://magneti.se SMS message API",
   "main": "./lib/index.js",
   "scripts": {
     "test": "./node_modules/grunt-cli/bin/grunt test",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattonfoot/node-magnetise"
+    "url": "https://github.com/magnetise/node-magnetise"
   },
   "keywords": [
     "sms",
@@ -24,11 +24,11 @@
     "rest",
     "client"
   ],
-  "author": "Matt Smith <mattonfoot@gmail.com>",
+  "author": "Magnetise",
   "homepage": "http://magneti.se",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattonfoot/node-magnetise/issues"
+    "url": "https://github.com/magnetise/node-magnetise/issues"
   },
   "devDependencies": {
     "chai": "*",
@@ -56,7 +56,7 @@
   },
   "config": {
     "travis-cov": {
-      "threshold": 70
+      "threshold": 60
     }
   }
 }
